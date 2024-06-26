@@ -17,7 +17,7 @@ public class first {
     }
 
     public static void one(){
-        int a = 120;
+        int a = 120000;
         int b = 130;
         System.out.printf("One: a=%s, b=%s%n", a,b);
 
